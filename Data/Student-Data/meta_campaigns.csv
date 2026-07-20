@@ -1,0 +1,36 @@
+reporting_starts,reporting_ends,campaign_name,delivery_status,results,result_indicator,reach,frequency,cost_per_result,spend_usd,impressions,cpm_usd,link_clicks,shop_clicks,cpc_usd,ctr_link,clicks_all,ctr_all,cpc_all_usd
+2025-01-01,2025-07-29,Klask Videos,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,KROMA Pre-Kickstarter Ads - Copy,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,Stripes Campaign A,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,KROMA Kickstarter Ads - Beginning of Campaign - Conversions - Purchases,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,KROMA Kickstarter Ads - Beginning of Campaign - Copy,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,Poop: The Game Traffic Campaign,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,Poop: The Game Conversions Campaign,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,Luck Conversion Campaign,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | Poop,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | Sparkle Kitty,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | Add to cart Sparkle Campaign,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | All Games,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Reach | Awareness,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Traffic TOF,active,39419.0,actions:landing_page_view,1199431,2.454899,0.21905401,8634.89,2944482,2.932567,41343.0,,0.20886,1.404084,44501,1.511335,0.194038
+2025-01-01,2025-07-29,*DA | BOF | Retargeting,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | Traffic Giveaway,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | Engagement Giveaway,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,* DA | Sales | Advantage Plus Campaign,active,97.0,actions:offsite_conversion.fb_pixel_purchase,175168,2.582589,70.76092784,6863.81,452387,15.17243,4507.0,,1.522922,0.996271,9335,2.063499,0.735277
+2025-01-01,2025-07-29,DA | Sales,active,,,275587,3.698088,,12917.08,1019145,12.674428,8592.0,,1.503385,0.84306,17553,1.722326,0.73589
+2025-01-01,2025-07-29,DA | Sales - Purchase DTC,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,* DA | Sales | Advantage+ | DTC,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,DA | Sales | ATC,inactive,291.0,actions:offsite_conversion.fb_pixel_add_to_cart,29589,2.127277,4.95512027,1441.94,62944,22.908299,1578.0,,0.913777,2.50699,2785,4.424568,0.517752
+2025-01-01,2025-07-29,DA | MAT Test | Dwellings | Traffic - LPV,inactive,17753.0,actions:landing_page_view,565254,1.909987,0.24472315,4344.57,1079628,4.024136,18936.0,,0.229434,1.753937,25659,2.376652,0.16932
+2025-01-01,2025-07-29,DA | Reach | Retargeting,active,1208484.0,reach,1208484,1.256406,1.33418399,1612.34,1518347,1.061905,1481.0,,1.088683,0.09754,1821,0.119933,0.885415
+2025-01-01,2025-07-29,DA | MAT Test | We're Doomed | Traffic - LPV,inactive,3540.0,actions:landing_page_view,345223,1.444744,0.39161299,1386.31,498759,2.779519,3880.0,,0.357296,0.777931,6504,1.304037,0.213147
+2025-01-01,2025-07-29,Stay Home. Play Games,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,Something Wicked Static Ads,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,Luck Reach Campaign,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,Luck Traffic Campaign,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | Luck,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | Catalog,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Sales | All Games | Amazon,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,*DA | Video View | Awareness,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,DA | Sales | Black Friday,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,DA | Sales | Catalog,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0

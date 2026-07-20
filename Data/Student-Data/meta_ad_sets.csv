@@ -1,0 +1,9 @@
+reporting_starts,reporting_ends,ad_set_name,delivery_status,results,result_indicator,reach,frequency,cost_per_result,spend_usd,impressions,cpm_usd,link_clicks,shop_clicks,cpc_usd,ctr_link,clicks_all,ctr_all,cpc_all_usd
+2025-01-01,2025-07-29,Broad,inactive,32.0,actions:offsite_conversion.fb_pixel_purchase,73549,2.224626,50.80625,1625.8,163619,9.936499,1448.0,,1.12279,0.884983,2711,1.656898,0.599705
+2025-01-01,2025-07-29,Interests | Family + Games | Exclude Buyers,inactive,50.0,actions:offsite_conversion.fb_pixel_purchase,104823,2.308749,67.8184,3390.92,242010,14.011487,2242.0,,1.512453,0.926408,4732,1.955291,0.716593
+2025-01-01,2025-07-29,Retargeting | All Retargeting exclude 30 purchase,active,79.0,actions:offsite_conversion.fb_pixel_purchase,130659,3.381244,63.78303797,5038.86,441790,11.405555,3535.0,,1.42542,0.800154,7342,1.661876,0.686306
+2025-01-01,2025-07-29,Broad - Game of the Month Test,inactive,,,0,0.0,,0.0,0,0.0,,,,,0,0.0,0.0
+2025-01-01,2025-07-29,Dwellings Stop Scrolling Test | Meta,inactive,10.0,actions:offsite_conversion.fb_pixel_purchase,30020,2.585077,96.787,967.87,77604,12.471909,468.0,,2.068098,0.603062,1249,1.609453,0.774916
+2025-01-01,2025-07-29,Dwellings Stop Scrolling Test | Instagram,inactive,4.0,actions:offsite_conversion.fb_pixel_purchase,25383,2.071623,261.485,1045.94,52584,19.890841,359.0,,2.913482,0.682717,461,0.876693,2.26885
+2025-01-01,2025-07-29,Broad | We're Doomed Test,active,5.0,actions:offsite_conversion.fb_pixel_purchase,20894,1.850531,149.044,745.22,38665,19.273762,519.0,,1.435877,1.342299,1011,2.614768,0.737112
+2025-01-01,2025-07-29,Retargeting | We're Doomed | Expansion,active,,,374,7.692513,,102.51,2877,35.630865,21.0,,4.881429,0.729927,47,1.633646,2.181064
